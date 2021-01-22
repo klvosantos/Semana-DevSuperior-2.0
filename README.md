@@ -5,7 +5,7 @@
 
 https://sds2-marcelo.netlify.app
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DS Deliver é uma aplicação full stack web e mobile construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação web possibilita a realização de pedidos de refeições, assim que a refeição é escolhida é inserido uma localização para onde o pedido devera ser entregue. Já no app mobile é identificado os pedidos pelo entregador, sendo assim possível de ser realizado entrega e confirmação de entrega.
 
