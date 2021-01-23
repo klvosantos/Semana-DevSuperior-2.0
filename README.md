@@ -42,7 +42,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/klvosantos/sds1
+git clone https://github.com/klvosantos/dsdeliver-sds2
 
 # entrar na pasta do projeto back end
 cd backend
@@ -56,7 +56,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/klvosantos/dsdeliver-sds2
 
 # entrar na pasta do projeto front end web
 cd front-web
